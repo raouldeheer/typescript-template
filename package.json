@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/raouldeheer/typescript-template/issues"
   },
-  "homepage": "https://github.com/raouldeheer/typescript-template#readme"
+  "homepage": "https://github.com/raouldeheer/typescript-template#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
